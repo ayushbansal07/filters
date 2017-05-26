@@ -1,0 +1,228 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-4.8.real: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec445586084/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec445586084.dir/build.make CMakeFiles/cmTryCompileExec445586084.dir/build
+make[1]: Entering directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec445586084.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec445586084.dir/testCCompiler.c.o   -c /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c
+/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c:2:3: error: #error "The CMAKE_C_COMPILER is set to a C++ compiler"
+ # error "The CMAKE_C_COMPILER is set to a C++ compiler"
+   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec445586084.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec445586084/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-4.8.real: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3159018101/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3159018101.dir/build.make CMakeFiles/cmTryCompileExec3159018101.dir/build
+make[1]: Entering directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3159018101.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec3159018101.dir/testCCompiler.c.o   -c /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c
+/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c:2:3: error: #error "The CMAKE_C_COMPILER is set to a C++ compiler"
+ # error "The CMAKE_C_COMPILER is set to a C++ compiler"
+   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec3159018101.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3159018101/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-4.8.real: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2986890572/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2986890572.dir/build.make CMakeFiles/cmTryCompileExec2986890572.dir/build
+make[1]: Entering directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2986890572.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec2986890572.dir/testCCompiler.c.o   -c /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c
+/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c:2:3: error: #error "The CMAKE_C_COMPILER is set to a C++ compiler"
+ # error "The CMAKE_C_COMPILER is set to a C++ compiler"
+   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec2986890572.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2986890572/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-4.8.real: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1191574565/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1191574565.dir/build.make CMakeFiles/cmTryCompileExec1191574565.dir/build
+make[1]: Entering directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1191574565.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec1191574565.dir/testCCompiler.c.o   -c /home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c
+/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp/testCCompiler.c:2:3: error: #error "The CMAKE_C_COMPILER is set to a C++ compiler"
+ # error "The CMAKE_C_COMPILER is set to a C++ compiler"
+   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec1191574565.dir/testCCompiler.c.o] Error 1
+make[1]: Leaving directory `/home/ayush/Nayi_Disha/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1191574565/fast] Error 2
+
+

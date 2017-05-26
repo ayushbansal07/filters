@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(ayush)
+find_package(OpenCV REQUIRED)
+add_executable(mainfile mainfile.cpp)
+target_link_libraries(mainfile ${OpenCV_LIBS})
